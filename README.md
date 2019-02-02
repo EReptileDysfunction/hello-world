@@ -1,2 +1,4 @@
 # hello-world
-Firt Repository
+First Repository
+
+Hello there! I like pizza and sushis.
